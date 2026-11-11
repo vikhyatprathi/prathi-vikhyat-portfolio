@@ -262,7 +262,6 @@ function App() {
               />
               <div className="portrait-placeholder">
                 <span>PV</span>
-                <small>ADD YOUR PROFESSIONAL PHOTO</small>
               </div>
             </div>
             <div className="floating-card floating-card-top">
